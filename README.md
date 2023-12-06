@@ -28,3 +28,4 @@ This is a simple nodejs application that makes bulk administration of holiday ho
 
 > To disable test mode, remove the ```TESTING=true``` line from the .env file.
 
+[Click here to watch a video tutorial on getting started](https://www.youtube.com/watch?v=81a6Qp2byAA)
