@@ -1,0 +1,7 @@
+version: '3'
+services:
+  hhh:
+    build:
+      context: .
+    container_name: hhh
+
